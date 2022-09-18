@@ -1,0 +1,12 @@
+.sucessStatusCard {
+  color: #22bb33;
+  border: 1px solid #22bb33;
+}
+.errorStatusCard {
+  color: #bb2124;
+  border: 1px solid #bb2124;
+}
+.warningStatusCard {
+  color: #f0ad4e;
+  border: 1px solid #f0ad4e;
+}
